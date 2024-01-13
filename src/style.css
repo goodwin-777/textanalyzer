@@ -1,0 +1,12 @@
+.bg{
+    background-color: rgb(242, 242, 242);
+}
+.bg:hover{
+    cursor: pointer;
+}
+.bg-violet{
+    background-color: blueviolet;
+}
+.my-table{
+    padding-left: 10px;
+}
